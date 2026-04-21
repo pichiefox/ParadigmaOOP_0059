@@ -1,4 +1,6 @@
 #include < iostrem>
 using namespace std:
 
-class Mahasiswa{}
+class Mahasiswa{
+    public:
+}
