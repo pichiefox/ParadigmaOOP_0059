@@ -17,4 +17,5 @@ int main(){
     Mahasiswa mhs1;
     
     mhs1.nim = 111;
+    mhs.nama = "Joko Susili";
 }
